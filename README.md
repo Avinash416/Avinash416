@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Avinash Jadhav
 
-<!--
-**Avinash416/Avinash416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Kotlin & Java Backend | React Frontend | Spring Boot Specialist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 💼 2.5+ years of experience in software development
+- 🧑‍💻 Worked on Transport & Event Management platforms
+- 🔁 Focused on clean architecture, testing, and scalable APIs
+- 🌱 Currently sharpening my TDD, DSA, and system design skills
+
+---
+
+## 🔧 Tech Stack
+
+**Backend:** `Java`, `Kotlin`, `Spring Boot`, `Micronaut`, `JPA`, `Hibernate`, `SQL`, `MongoDB`  
+**Frontend:** `React.js`, `Redux Toolkit`, `Next.js`, `HTML`, `CSS`, `JS`  
+**DevOps & Tools:** `Git`, `GitHub Actions`, `Docker`, `JUnit`, `Mockito`, `CI/CD`, `Agile`  
+**Cloud:** `GCP`, `Firebase`, `H2`
+
+
+## 🛠️ Currently Working On
+
+- ⚒️ Revamping my GitHub profile & contributions
+- 💡 Building a portfolio project using React + Spring Boot
+- 🧪 Writing test-driven services in Kotlin Spring Boot
+
+---
+
+## 📬 Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/avinash-jadhav) | [Resume](#) | [Portfolio](#)
+
+---
+
+_Thanks for visiting!_ 😊
