@@ -31,7 +31,7 @@
 
 ## 📬 Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/avinash-jadhav) | [Resume](#) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/avinash-jadhav-1b5b28220) | [Resume](#) | [Portfolio](#)
 
 ---
 
