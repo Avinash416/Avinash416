@@ -1,0 +1,31 @@
+name: Update README with Daily Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  
+  workflow_dispatch:     
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Daily Quote
+        run: |
+          curl -s https://zenquotes.io/api/today | jq -r '.[0] | "**\(.q)**\n\n— \(.a)"' > quote.md
+
+      - name: Update README
+        run: |
+          awk '/<!-- START_QUOTE -->/{flag=1;print;print "";system("cat quote.md");next}/<!-- END_QUOTE -->/{flag=0}flag' README.md > temp.md
+          mv temp.md README.md
+          rm quote.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --cached --quiet || git commit -m 'Update README with daily quote'
+          git push
