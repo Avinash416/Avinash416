@@ -4,6 +4,11 @@
 
 ---
 
+<!-- START_QUOTE -->
+<!-- END_QUOTE -->
+
+---
+
 ## 🧠 About Me
 
 - 💼 2.5+ years of experience in software development
