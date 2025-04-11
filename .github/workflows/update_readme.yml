@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAT }}
 
       - name: Fetch Daily Quote
         run: |
@@ -18,9 +20,12 @@ jobs:
 
       - name: Update README
         run: |
-          awk '/<!-- START_QUOTE -->/{flag=1;print;print "";system("cat quote.md");next}/<!-- END_QUOTE -->/{flag=0}flag' README.md > temp.md
-          mv temp.md README.md
-          rm quote.md
+          awk '
+          BEGIN {quote = ""; while ((getline line < "quote.md") > 0) quote = quote line "\\n"}
+          /<!-- START_QUOTE -->/ {print; print quote; skip=1; next}
+          /<!-- END_QUOTE -->/ {skip=0}
+          skip == 0 {print}
+          ' README.md > temp.md && mv temp.md README.md && rm quote.md
 
       - name: Commit and Push Changes
         run: |
