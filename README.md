@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**I can live without money, but I cannot live without love.**\n\n— Judy Garland\n
+**Enjoy life. There's plenty of time to be dead.**\n\n— Hans Christian Andersen\n
 <!-- END_QUOTE -->
 
 ---
