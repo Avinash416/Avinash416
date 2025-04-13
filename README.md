@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Enjoy life. There's plenty of time to be dead.**\n\n— Hans Christian Andersen\n
+**A mistake is only an error, it becomes a mistake when you fail to correct it.**\n\n— John Lennon\n
 <!-- END_QUOTE -->
 
 ---
