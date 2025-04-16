@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Truth is such a rare thing, it is delighted to tell it.**\n\n— Emily Dickinson\n
+**Respect was invented to cover the empty place where love should be.**\n\n— Leo Tolstoy\n
 <!-- END_QUOTE -->
 
 ---
