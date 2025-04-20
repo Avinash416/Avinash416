@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.**\n\n— Zig Ziglar\n
+**Freedom lies in being bold.**\n\n— Robert Frost\n
 <!-- END_QUOTE -->
 
 ---
