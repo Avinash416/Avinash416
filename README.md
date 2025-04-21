@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Freedom lies in being bold.**\n\n— Robert Frost\n
+**Your heart is the size of an ocean. Go find yourself in its hidden depths.**\n\n— Rumi\n
 <!-- END_QUOTE -->
 
 ---
