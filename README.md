@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Your heart is the size of an ocean. Go find yourself in its hidden depths.**\n\n— Rumi\n
+**When you judge another, you do not define them, you define yourself**\n\n— Wayne Dyer\n
 <!-- END_QUOTE -->
 
 ---
