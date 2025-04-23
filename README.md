@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**When you judge another, you do not define them, you define yourself**\n\n— Wayne Dyer\n
+**The only reason to be alive is to enjoy it.**\n\n— Rita Mae Brown\n
 <!-- END_QUOTE -->
 
 ---
