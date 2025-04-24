@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**The only reason to be alive is to enjoy it.**\n\n— Rita Mae Brown\n
+**You can't get to a place that you don't believe exists.**\n\n— Unknown\n
 <!-- END_QUOTE -->
 
 ---
