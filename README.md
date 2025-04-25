@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**You can't get to a place that you don't believe exists.**\n\n— Unknown\n
+**Even if you persuade me, you won't persuade me.**\n\n— Aristophanes\n
 <!-- END_QUOTE -->
 
 ---
