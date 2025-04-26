@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Even if you persuade me, you won't persuade me.**\n\n— Aristophanes\n
+**In the middle of difficulty lies opportunity.**\n\n— Albert Einstein\n
 <!-- END_QUOTE -->
 
 ---
