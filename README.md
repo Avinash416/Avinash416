@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**In the middle of difficulty lies opportunity.**\n\n— Albert Einstein\n
+**I'm an optimist by choice not by stupidity.**\n\n— Yanni\n
 <!-- END_QUOTE -->
 
 ---
