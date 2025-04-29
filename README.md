@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Self-knowledge is the beginning of self-correction.**\n\n— Norman Vincent Peale\n
+**Over time, loneliness gets inside you and doesn't go away.**\n\n— Carlos Ruiz Zafon\n
 <!-- END_QUOTE -->
 
 ---
