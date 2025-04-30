@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Over time, loneliness gets inside you and doesn't go away.**\n\n— Carlos Ruiz Zafon\n
+**Those who cannot change their minds cannot change anything.**\n\n— George Bernard Shaw\n
 <!-- END_QUOTE -->
 
 ---
