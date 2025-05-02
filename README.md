@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Duty makes us do things well, but love makes us do them beautifully.  **\n\n— Zig Ziglar\n
+**Confidence is contagious. So is lack of confidence.**\n\n— Vince Lombardi\n
 <!-- END_QUOTE -->
 
 ---
