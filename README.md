@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Confidence is contagious. So is lack of confidence.**\n\n— Vince Lombardi\n
+**Your best life will not be found in comfort. It will be found in fighting for what you believe in.**\n\n— Maxime Lagace\n
 <!-- END_QUOTE -->
 
 ---
