@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Your best life will not be found in comfort. It will be found in fighting for what you believe in.**\n\n— Maxime Lagace\n
+**Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.**\n\n— Sun Tzu\n
 <!-- END_QUOTE -->
 
 ---
