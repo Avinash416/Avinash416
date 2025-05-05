@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.**\n\n— Sun Tzu\n
+**Throw your heart over the bar and your body will follow.**\n\n— Norman Vincent Peale\n
 <!-- END_QUOTE -->
 
 ---
