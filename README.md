@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Throw your heart over the bar and your body will follow.**\n\n— Norman Vincent Peale\n
+**If what you're doing is not your passion, you have nothing to lose.**\n\n— Celestine Chua\n
 <!-- END_QUOTE -->
 
 ---
