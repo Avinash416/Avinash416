@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**If what you're doing is not your passion, you have nothing to lose.**\n\n— Celestine Chua\n
+**It's the possibility of having a dream come true that makes life interesting.**\n\n— Paulo Coelho\n
 <!-- END_QUOTE -->
 
 ---
