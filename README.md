@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**It's the possibility of having a dream come true that makes life interesting.**\n\n— Paulo Coelho\n
+**20 percent of your activities will account for 80 percent of your results.**\n\n— Brian Tracy\n
 <!-- END_QUOTE -->
 
 ---
