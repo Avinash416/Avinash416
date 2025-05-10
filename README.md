@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.**\n\n— Zig Ziglar\n
+**The majority of what you want will come from the minority of what you do.**\n\n— Gary Keller\n
 <!-- END_QUOTE -->
 
 ---
