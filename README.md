@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**We don't stop playing because we grow old; we grow old because we stop playing.**\n\n— George Bernard Shaw\n
+**There is no sadder sight than a young pessimist.**\n\n— Mark Twain\n
 <!-- END_QUOTE -->
 
 ---
