@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**There is no sadder sight than a young pessimist.**\n\n— Mark Twain\n
+**People are doing the best that they can from their own level of consciousness.**\n\n— Deepak Chopra\n
 <!-- END_QUOTE -->
 
 ---
