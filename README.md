@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**People are doing the best that they can from their own level of consciousness.**\n\n— Deepak Chopra\n
+**Amateurs sit and wait for inspiration, the rest of us just get up and got to work.**\n\n— Stephen King\n
 <!-- END_QUOTE -->
 
 ---
