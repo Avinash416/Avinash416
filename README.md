@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Amateurs sit and wait for inspiration, the rest of us just get up and got to work.**\n\n— Stephen King\n
+**The future belongs to those who learn more skills and combine them in creative ways.**\n\n— Robert Greene\n
 <!-- END_QUOTE -->
 
 ---
