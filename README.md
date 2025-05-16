@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**The future belongs to those who learn more skills and combine them in creative ways.**\n\n— Robert Greene\n
+**In youth we run into difficulties. In old age difficulties run into us. **\n\n— Beverly Sills\n
 <!-- END_QUOTE -->
 
 ---
