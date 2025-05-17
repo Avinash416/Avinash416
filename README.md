@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**In youth we run into difficulties. In old age difficulties run into us. **\n\n— Beverly Sills\n
+**Sometimes you have to lose all you have to find out who you truly are.**\n\n— Roy T. Bennett\n
 <!-- END_QUOTE -->
 
 ---
