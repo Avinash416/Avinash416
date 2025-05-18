@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Sometimes you have to lose all you have to find out who you truly are.**\n\n— Roy T. Bennett\n
+**Pleasure can be supported by an illusion; but happiness rests upon truth. **\n\n— Nicolas Chamfort\n
 <!-- END_QUOTE -->
 
 ---
