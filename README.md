@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Pleasure can be supported by an illusion; but happiness rests upon truth. **\n\n— Nicolas Chamfort\n
+**Nothing good ever comes of violence.**\n\n— Martin Luther\n
 <!-- END_QUOTE -->
 
 ---
