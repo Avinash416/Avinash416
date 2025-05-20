@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Nothing good ever comes of violence.**\n\n— Martin Luther\n
+**An investment in knowledge pays the best interest.**\n\n— Benjamin Franklin\n
 <!-- END_QUOTE -->
 
 ---
