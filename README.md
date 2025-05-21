@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**An investment in knowledge pays the best interest.**\n\n— Benjamin Franklin\n
+**Human beings believe just as they breathe - in order to survive.**\n\n— Carlos Ruiz Zafon\n
 <!-- END_QUOTE -->
 
 ---
