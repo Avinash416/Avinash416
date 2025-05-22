@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Human beings believe just as they breathe - in order to survive.**\n\n— Carlos Ruiz Zafon\n
+**Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.**\n\n— Spencer Johnson\n
 <!-- END_QUOTE -->
 
 ---
