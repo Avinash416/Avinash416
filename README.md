@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.**\n\n— Spencer Johnson\n
+**The chief danger in life is that you may take too many precautions.**\n\n— Alfred Adler\n
 <!-- END_QUOTE -->
 
 ---
