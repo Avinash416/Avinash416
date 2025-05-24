@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**The chief danger in life is that you may take too many precautions.**\n\n— Alfred Adler\n
+**Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. **\n\n— Paramahansa Yogananda\n
 <!-- END_QUOTE -->
 
 ---
