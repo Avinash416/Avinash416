@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. **\n\n— Paramahansa Yogananda\n
+**Be where your enemy is not.**\n\n— Sun Tzu\n
 <!-- END_QUOTE -->
 
 ---
