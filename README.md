@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Be where your enemy is not.**\n\n— Sun Tzu\n
+**Deliberately seek the company of people who influence you to think and act on building the life you desire.**\n\n— Napoleon Hill\n
 <!-- END_QUOTE -->
 
 ---
