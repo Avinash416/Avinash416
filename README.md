@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Deliberately seek the company of people who influence you to think and act on building the life you desire.**\n\n— Napoleon Hill\n
+**Thinking will not overcome fear but action will. **\n\n— W. Clement Stone\n
 <!-- END_QUOTE -->
 
 ---
