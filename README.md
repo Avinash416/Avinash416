@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Thinking will not overcome fear but action will. **\n\n— W. Clement Stone\n
+**To some degree, you control your life by controlling your time.**\n\n— Conrad Hilton\n
 <!-- END_QUOTE -->
 
 ---
