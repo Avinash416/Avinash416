@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**To some degree, you control your life by controlling your time.**\n\n— Conrad Hilton\n
+**We forge the chains we wear in life.**\n\n— Charles Dickens\n
 <!-- END_QUOTE -->
 
 ---
