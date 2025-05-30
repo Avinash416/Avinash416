@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**We forge the chains we wear in life.**\n\n— Charles Dickens\n
+**Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.**\n\n— Harry S. Truman\n
 <!-- END_QUOTE -->
 
 ---
