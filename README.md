@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.**\n\n— Harry S. Truman\n
+**Everyone is a moon, and has a dark side which he never shows to anybody.**\n\n— Mark Twain\n
 <!-- END_QUOTE -->
 
 ---
