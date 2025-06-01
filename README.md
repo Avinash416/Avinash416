@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Everyone is a moon, and has a dark side which he never shows to anybody.**\n\n— Mark Twain\n
+**Time goes from present to past.**\n\n— Shunryu Suzuki\n
 <!-- END_QUOTE -->
 
 ---
