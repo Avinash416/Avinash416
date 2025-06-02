@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Time goes from present to past.**\n\n— Shunryu Suzuki\n
+**Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.**\n\n— Dogen\n
 <!-- END_QUOTE -->
 
 ---
