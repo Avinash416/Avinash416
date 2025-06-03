@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.**\n\n— Dogen\n
+**Dreams are the touchstones of our characters.**\n\n— Henry David Thoreau\n
 <!-- END_QUOTE -->
 
 ---
