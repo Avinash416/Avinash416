@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Dreams are the touchstones of our characters.**\n\n— Henry David Thoreau\n
+**Through selfless service, you will always be fruitful and find the fulfillment of your desires.**\n\n— Bhagavad Gita\n
 <!-- END_QUOTE -->
 
 ---
