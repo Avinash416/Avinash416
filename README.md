@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Through selfless service, you will always be fruitful and find the fulfillment of your desires.**\n\n— Bhagavad Gita\n
+**There are two things a person should never be angry at, what they can help, and what they cannot.**\n\n— Plato\n
 <!-- END_QUOTE -->
 
 ---
