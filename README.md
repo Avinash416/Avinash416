@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**There are two things a person should never be angry at, what they can help, and what they cannot.**\n\n— Plato\n
+**It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.**\n\n— Ming-Dao Deng\n
 <!-- END_QUOTE -->
 
 ---
