@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.**\n\n— Ming-Dao Deng\n
+**Youth has no age.**\n\n— Pablo Picasso\n
 <!-- END_QUOTE -->
 
 ---
