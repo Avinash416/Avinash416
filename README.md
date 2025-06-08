@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Youth has no age.**\n\n— Pablo Picasso\n
+**If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.**\n\n— Arnold Schwarzenegger\n
 <!-- END_QUOTE -->
 
 ---
