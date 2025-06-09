@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.**\n\n— Arnold Schwarzenegger\n
+**One is never afraid of the unknown; one is afraid of the known coming to an end.**\n\n— Jiddu Krishnamurti\n
 <!-- END_QUOTE -->
 
 ---
