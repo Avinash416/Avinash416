@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**One is never afraid of the unknown; one is afraid of the known coming to an end.**\n\n— Jiddu Krishnamurti\n
+**When you want to be honored by others, you learn to honor them first.**\n\n— Sathya Sai Baba\n
 <!-- END_QUOTE -->
 
 ---
