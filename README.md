@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**When you want to be honored by others, you learn to honor them first.**\n\n— Sathya Sai Baba\n
+**Even in the grave, all is not lost.**\n\n— Edgar Allan Poe\n
 <!-- END_QUOTE -->
 
 ---
