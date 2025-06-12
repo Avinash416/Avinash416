@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Even in the grave, all is not lost.**\n\n— Edgar Allan Poe\n
+**Debt is the slavery of the free.**\n\n— Publilius Syrus\n
 <!-- END_QUOTE -->
 
 ---
