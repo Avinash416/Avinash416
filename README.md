@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Debt is the slavery of the free.**\n\n— Publilius Syrus\n
+**Most people fail in life because they major in minor things.**\n\n— Tony Robbins\n
 <!-- END_QUOTE -->
 
 ---
