@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Most people fail in life because they major in minor things.**\n\n— Tony Robbins\n
+**The key to success is action.**\n\n— Brian Tracy\n
 <!-- END_QUOTE -->
 
 ---
