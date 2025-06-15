@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**The key to success is action.**\n\n— Brian Tracy\n
+**Little minds have little worries, big minds have no time for worries.**\n\n— Ralph Waldo Emerson\n
 <!-- END_QUOTE -->
 
 ---
