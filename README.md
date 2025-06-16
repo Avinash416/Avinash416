@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Little minds have little worries, big minds have no time for worries.**\n\n— Ralph Waldo Emerson\n
+**Facts are the enemy of truth. **\n\n— Miguel de Cervantes\n
 <!-- END_QUOTE -->
 
 ---
