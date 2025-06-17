@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Facts are the enemy of truth. **\n\n— Miguel de Cervantes\n
+**It's not what you pay a man, but what he costs you that counts.**\n\n— Will Rogers\n
 <!-- END_QUOTE -->
 
 ---
