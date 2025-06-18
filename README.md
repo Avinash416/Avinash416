@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**It's not what you pay a man, but what he costs you that counts.**\n\n— Will Rogers\n
+**You can tell more about a person by what he says about others than you can by what others say about him.**\n\n— Audrey Hepburn\n
 <!-- END_QUOTE -->
 
 ---
