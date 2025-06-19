@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**You can tell more about a person by what he says about others than you can by what others say about him.**\n\n— Audrey Hepburn\n
+**A self that goes on changing is a self that goes on living.**\n\n— Virginia Woolf\n
 <!-- END_QUOTE -->
 
 ---
