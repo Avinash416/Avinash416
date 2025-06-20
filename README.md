@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**A self that goes on changing is a self that goes on living.**\n\n— Virginia Woolf\n
+**Life happens in the river, not the shore.**\n\n— Maxime Lagace\n
 <!-- END_QUOTE -->
 
 ---
