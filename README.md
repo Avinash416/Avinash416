@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Life happens in the river, not the shore.**\n\n— Maxime Lagace\n
+**In the middle of chaos lies opportunity.  **\n\n— Bruce Lee\n
 <!-- END_QUOTE -->
 
 ---
