@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**In the middle of chaos lies opportunity.  **\n\n— Bruce Lee\n
+**If you chase two rabbits, you catch none.**\n\n— Confucius\n
 <!-- END_QUOTE -->
 
 ---
