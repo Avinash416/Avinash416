@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**If you chase two rabbits, you catch none.**\n\n— Confucius\n
+**A person hears only what they understand.**\n\n— Johann Wolfgang von Goethe\n
 <!-- END_QUOTE -->
 
 ---
