@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**A person hears only what they understand.**\n\n— Johann Wolfgang von Goethe\n
+**What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.**\n\n— Eckhart Tolle\n
 <!-- END_QUOTE -->
 
 ---
