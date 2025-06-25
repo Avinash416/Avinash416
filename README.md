@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.**\n\n— Eckhart Tolle\n
+**Wheels of justice grind slow but grind fine.**\n\n— Sun Tzu\n
 <!-- END_QUOTE -->
 
 ---
