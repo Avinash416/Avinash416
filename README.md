@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Wheels of justice grind slow but grind fine.**\n\n— Sun Tzu\n
+**Discontent is the first necessity of progress.**\n\n— Thomas Edison\n
 <!-- END_QUOTE -->
 
 ---
