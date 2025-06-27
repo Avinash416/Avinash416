@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Discontent is the first necessity of progress.**\n\n— Thomas Edison\n
+**For fast-acting relief try slowing down.**\n\n— Lily Tomlin\n
 <!-- END_QUOTE -->
 
 ---
