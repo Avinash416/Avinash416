@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**For fast-acting relief try slowing down.**\n\n— Lily Tomlin\n
+**Sadness is but a wall between two gardens.**\n\n— Kahlil Gibran\n
 <!-- END_QUOTE -->
 
 ---
