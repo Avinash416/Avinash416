@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Sadness is but a wall between two gardens.**\n\n— Kahlil Gibran\n
+**Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.**\n\n— Conrad Hilton\n
 <!-- END_QUOTE -->
 
 ---
