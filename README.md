@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.**\n\n— Conrad Hilton\n
+**No man is happy unless he believes he is.**\n\n— Publilius Syrus\n
 <!-- END_QUOTE -->
 
 ---
