@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**No man is happy unless he believes he is.**\n\n— Publilius Syrus\n
+**Some of us learn from other people's mistakes and the rest of us have to be other people.  **\n\n— Zig Ziglar\n
 <!-- END_QUOTE -->
 
 ---
