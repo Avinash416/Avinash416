@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Some of us learn from other people's mistakes and the rest of us have to be other people.  **\n\n— Zig Ziglar\n
+**Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.**\n\n— Peter Drucker\n
 <!-- END_QUOTE -->
 
 ---
