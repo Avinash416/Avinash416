@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.**\n\n— Peter Drucker\n
+**Always focus on the front windshield and not the rear view mirror.**\n\n— Colin Powell\n
 <!-- END_QUOTE -->
 
 ---
