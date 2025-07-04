@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Always focus on the front windshield and not the rear view mirror.**\n\n— Colin Powell\n
+**Not all those who wander are lost.**\n\n— J.R.R. Tolkien\n
 <!-- END_QUOTE -->
 
 ---
