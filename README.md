@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Not all those who wander are lost.**\n\n— J.R.R. Tolkien\n
+**When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. **\n\n— Charles Swindoll\n
 <!-- END_QUOTE -->
 
 ---
