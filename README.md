@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. **\n\n— Charles Swindoll\n
+**The longer we dwell on our misfortunes, the greater is their power to harm us.**\n\n— Voltaire\n
 <!-- END_QUOTE -->
 
 ---
