@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**The longer we dwell on our misfortunes, the greater is their power to harm us.**\n\n— Voltaire\n
+**Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!**\n\n— Sathya Sai Baba\n
 <!-- END_QUOTE -->
 
 ---
