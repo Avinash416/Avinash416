@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!**\n\n— Sathya Sai Baba\n
+**Great things are not done by impulse, but by a series of small things brought together.**\n\n— Vincent van Gogh\n
 <!-- END_QUOTE -->
 
 ---
