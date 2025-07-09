@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Great things are not done by impulse, but by a series of small things brought together.**\n\n— Vincent van Gogh\n
+**Troubles are often the tools by which God fashions us for better things.**\n\n— Henry Ward Beecher\n
 <!-- END_QUOTE -->
 
 ---
