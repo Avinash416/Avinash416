@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Troubles are often the tools by which God fashions us for better things.**\n\n— Henry Ward Beecher\n
+**The whole is greater than the sum of its parts.**\n\n— Aristotle\n
 <!-- END_QUOTE -->
 
 ---
