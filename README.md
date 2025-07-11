@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**The whole is greater than the sum of its parts.**\n\n— Aristotle\n
+**When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  **\n\n— Wayne Dyer\n
 <!-- END_QUOTE -->
 
 ---
