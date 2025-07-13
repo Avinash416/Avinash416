@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**The destiny of man is in his own soul. **\n\n— Herodotus\n
+**Most people fail in life not because they aim too high and miss, but because they aim too low and hit.**\n\n— Les Brown\n
 <!-- END_QUOTE -->
 
 ---
