@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Most people fail in life not because they aim too high and miss, but because they aim too low and hit.**\n\n— Les Brown\n
+**Sometimes out of your biggest misery, comes your greatest gain.**\n\n— Steve Harvey\n
 <!-- END_QUOTE -->
 
 ---
