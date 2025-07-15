@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Sometimes out of your biggest misery, comes your greatest gain.**\n\n— Steve Harvey\n
+**You will succeed because most people are lazy.**\n\n— Shahir Zag\n
 <!-- END_QUOTE -->
 
 ---
