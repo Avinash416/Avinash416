@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**You will succeed because most people are lazy.**\n\n— Shahir Zag\n
+**Well done is better than well said.**\n\n— Benjamin Franklin\n
 <!-- END_QUOTE -->
 
 ---
