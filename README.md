@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Well done is better than well said.**\n\n— Benjamin Franklin\n
+**Ponder and deliberate before you make a move.**\n\n— Sun Tzu\n
 <!-- END_QUOTE -->
 
 ---
