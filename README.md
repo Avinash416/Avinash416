@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Ponder and deliberate before you make a move.**\n\n— Sun Tzu\n
+**Better a diamond with a flaw than a pebble without one.**\n\n— Chinese Proverb\n
 <!-- END_QUOTE -->
 
 ---
