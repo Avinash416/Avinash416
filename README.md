@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Better a diamond with a flaw than a pebble without one.**\n\n— Chinese Proverb\n
+**Words used to attract the dull of wit are not to be relied on.**\n\n— Huang Po\n
 <!-- END_QUOTE -->
 
 ---
