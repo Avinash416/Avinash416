@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Words used to attract the dull of wit are not to be relied on.**\n\n— Huang Po\n
+**You're on earth. There's no cure for that.**\n\n— Samuel Beckett\n
 <!-- END_QUOTE -->
 
 ---
