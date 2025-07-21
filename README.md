@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**You're on earth. There's no cure for that.**\n\n— Samuel Beckett\n
+**Everything eaten is killed. Every meal is a sacrifice.**\n\n— Adi Da Samraj\n
 <!-- END_QUOTE -->
 
 ---
