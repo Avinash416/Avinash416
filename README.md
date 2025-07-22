@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Everything eaten is killed. Every meal is a sacrifice.**\n\n— Adi Da Samraj\n
+**Your work is to discover your work and then, with all your heart, to give yourself to it.**\n\n— Buddha\n
 <!-- END_QUOTE -->
 
 ---
