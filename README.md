@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Your work is to discover your work and then, with all your heart, to give yourself to it.**\n\n— Buddha\n
+**Originality is the fine art of remembering what you hear but forgetting where you heard it. **\n\n— Laurence J. Peter\n
 <!-- END_QUOTE -->
 
 ---
