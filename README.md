@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Originality is the fine art of remembering what you hear but forgetting where you heard it. **\n\n— Laurence J. Peter\n
+**When you're curious, you find lots of interesting things to do.**\n\n— Walt Disney\n
 <!-- END_QUOTE -->
 
 ---
