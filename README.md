@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**When you're curious, you find lots of interesting things to do.**\n\n— Walt Disney\n
+**To every action there is always opposed an equal reaction.**\n\n— Isaac Newton\n
 <!-- END_QUOTE -->
 
 ---
