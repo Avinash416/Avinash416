@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**To every action there is always opposed an equal reaction.**\n\n— Isaac Newton\n
+**Creativity is the greatest rebellion in existence.**\n\n— Osho\n
 <!-- END_QUOTE -->
 
 ---
