@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Creativity is the greatest rebellion in existence.**\n\n— Osho\n
+**Be the silent watcher of your thoughts and behavior. You are beneath the thinker.**\n\n— Eckhart Tolle\n
 <!-- END_QUOTE -->
 
 ---
