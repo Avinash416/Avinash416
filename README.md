@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Be the silent watcher of your thoughts and behavior. You are beneath the thinker.**\n\n— Eckhart Tolle\n
+**Confidence comes from crossing thresholds.**\n\n— Kamal Ravikant\n
 <!-- END_QUOTE -->
 
 ---
