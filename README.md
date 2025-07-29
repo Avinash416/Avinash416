@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Confidence comes from crossing thresholds.**\n\n— Kamal Ravikant\n
+**What you do today can improve all your tomorrows.**\n\n— Ralph Marston\n
 <!-- END_QUOTE -->
 
 ---
