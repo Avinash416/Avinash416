@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**What you do today can improve all your tomorrows.**\n\n— Ralph Marston\n
+**Of all men's miseries the bitterest is this: to know so much and to have control over nothing. **\n\n— Herodotus\n
 <!-- END_QUOTE -->
 
 ---
