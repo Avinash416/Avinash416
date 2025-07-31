@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Of all men's miseries the bitterest is this: to know so much and to have control over nothing. **\n\n— Herodotus\n
+**One mistake does not have to rule a person's entire life.**\n\n— Joyce Meyer\n
 <!-- END_QUOTE -->
 
 ---
