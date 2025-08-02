@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.**\n\n— Steve Maraboli\n
+**Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.**\n\n— Marcus Aurelius\n
 <!-- END_QUOTE -->
 
 ---
