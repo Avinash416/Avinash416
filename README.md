@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.**\n\n— Marcus Aurelius\n
+**How many times do you have to get hit over the head until you figure out who's hitting you?**\n\n— Harry S. Truman\n
 <!-- END_QUOTE -->
 
 ---
