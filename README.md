@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**How many times do you have to get hit over the head until you figure out who's hitting you?**\n\n— Harry S. Truman\n
+**The only limits in your life are those that you set yourself.**\n\n— Celestine Chua\n
 <!-- END_QUOTE -->
 
 ---
