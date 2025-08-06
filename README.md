@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Among the things you can give and still keep are your word, a smile, and a grateful heart.**\n\n— Zig Ziglar\n
+**Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.**\n\n— William Faulkner\n
 <!-- END_QUOTE -->
 
 ---
