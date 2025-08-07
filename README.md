@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.**\n\n— William Faulkner\n
+**Be yourself; everyone else is already taken.**\n\n— Oscar Wilde\n
 <!-- END_QUOTE -->
 
 ---
