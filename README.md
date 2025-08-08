@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Be yourself; everyone else is already taken.**\n\n— Oscar Wilde\n
+**Fishing is much more than fish.**\n\n— Herbert Hoover\n
 <!-- END_QUOTE -->
 
 ---
