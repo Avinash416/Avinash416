@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Fishing is much more than fish.**\n\n— Herbert Hoover\n
+**Don't criticize what you can't understand. **\n\n— Bob Dylan\n
 <!-- END_QUOTE -->
 
 ---
