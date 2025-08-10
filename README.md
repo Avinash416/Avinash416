@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Don't criticize what you can't understand. **\n\n— Bob Dylan\n
+**Management is doing things right; leadership is doing the right things.**\n\n— Peter Drucker\n
 <!-- END_QUOTE -->
 
 ---
