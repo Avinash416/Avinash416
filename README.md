@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Management is doing things right; leadership is doing the right things.**\n\n— Peter Drucker\n
+**The chief cause of failure and unhappiness is trading what you want most for what you want right now.**\n\n— Zig Ziglar\n
 <!-- END_QUOTE -->
 
 ---
