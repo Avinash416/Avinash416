@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**The chief cause of failure and unhappiness is trading what you want most for what you want right now.**\n\n— Zig Ziglar\n
+**We must learn to live together as brothers or perish together as fools.**\n\n— Martin Luther King, Jr.\n
 <!-- END_QUOTE -->
 
 ---
