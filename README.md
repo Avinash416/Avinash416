@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**We must learn to live together as brothers or perish together as fools.**\n\n— Martin Luther King, Jr.\n
+**It is not what we get. But who we become, what we contribute... that gives meaning to our lives.**\n\n— Tony Robbins\n
 <!-- END_QUOTE -->
 
 ---
