@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**It is not what we get. But who we become, what we contribute... that gives meaning to our lives.**\n\n— Tony Robbins\n
+**Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. **\n\n— Nikola Tesla\n
 <!-- END_QUOTE -->
 
 ---
