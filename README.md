@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. **\n\n— Nikola Tesla\n
+**Turn your face to the sun, as flowers know how to do.**\n\n— Ming-Dao Deng\n
 <!-- END_QUOTE -->
 
 ---
