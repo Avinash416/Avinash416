@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Turn your face to the sun, as flowers know how to do.**\n\n— Ming-Dao Deng\n
+**Some people feel the rain. Others just get wet. **\n\n— Bob Dylan\n
 <!-- END_QUOTE -->
 
 ---
