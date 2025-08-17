@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Some people feel the rain. Others just get wet. **\n\n— Bob Dylan\n
+**Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.**\n\n— Richard Bach\n
 <!-- END_QUOTE -->
 
 ---
