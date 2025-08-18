@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.**\n\n— Richard Bach\n
+**Happiness is an effect of doing what you love, not an end goal to be achieved.**\n\n— Celestine Chua\n
 <!-- END_QUOTE -->
 
 ---
