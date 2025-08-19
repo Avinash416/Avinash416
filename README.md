@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Happiness is an effect of doing what you love, not an end goal to be achieved.**\n\n— Celestine Chua\n
+**It is not uncommon for people to spend their whole life waiting to start living.**\n\n— Eckhart Tolle\n
 <!-- END_QUOTE -->
 
 ---
