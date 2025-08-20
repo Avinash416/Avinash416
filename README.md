@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**It is not uncommon for people to spend their whole life waiting to start living.**\n\n— Eckhart Tolle\n
+**You are the average of the five people you spend most time with.**\n\n— Jim Rohn\n
 <!-- END_QUOTE -->
 
 ---
