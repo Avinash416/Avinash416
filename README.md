@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**You are the average of the five people you spend most time with.**\n\n— Jim Rohn\n
+**You can avoid reality, but you cannot avoid the consequences of avoiding reality.**\n\n— Ayn Rand\n
 <!-- END_QUOTE -->
 
 ---
