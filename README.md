@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**You can avoid reality, but you cannot avoid the consequences of avoiding reality.**\n\n— Ayn Rand\n
+**A man who cannot tolerate small misfortunes can never accomplish great things.**\n\n— Chinese Proverb\n
 <!-- END_QUOTE -->
 
 ---
