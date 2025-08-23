@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**A man who cannot tolerate small misfortunes can never accomplish great things.**\n\n— Chinese Proverb\n
+**Do the hard jobs first. The easy jobs will take care of themselves.**\n\n— Dale Carnegie\n
 <!-- END_QUOTE -->
 
 ---
