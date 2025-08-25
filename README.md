@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.**\n\n— Robert Frost\n
+**The more we value things, the less we value ourselves.  **\n\n— Bruce Lee\n
 <!-- END_QUOTE -->
 
 ---
