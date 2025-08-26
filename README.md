@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**The more we value things, the less we value ourselves.  **\n\n— Bruce Lee\n
+**Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.**\n\n— Celestine Chua\n
 <!-- END_QUOTE -->
 
 ---
