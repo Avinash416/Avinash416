@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.**\n\n— Celestine Chua\n
+**Keep your face to the sunshine and you cannot see the shadows.**\n\n— Helen Keller\n
 <!-- END_QUOTE -->
 
 ---
