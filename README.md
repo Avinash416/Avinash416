@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Keep your face to the sunshine and you cannot see the shadows.**\n\n— Helen Keller\n
+**Behind every beautiful thing, there's some kind of pain.**\n\n— Bob Dylan\n
 <!-- END_QUOTE -->
 
 ---
