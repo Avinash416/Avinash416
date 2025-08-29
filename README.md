@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Behind every beautiful thing, there's some kind of pain.**\n\n— Bob Dylan\n
+**Talent is luck. The important thing in life is courage.**\n\n— Woody Allen\n
 <!-- END_QUOTE -->
 
 ---
