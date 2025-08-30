@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Talent is luck. The important thing in life is courage.**\n\n— Woody Allen\n
+**Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. **\n\n— George Washington\n
 <!-- END_QUOTE -->
 
 ---
