@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. **\n\n— George Washington\n
+**There is always risk, so learn to manage risk instead of avoiding it.**\n\n— Robert Kiyosaki\n
 <!-- END_QUOTE -->
 
 ---
