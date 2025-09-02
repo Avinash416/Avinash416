@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  **\n\n— Estee Lauder\n
+**The trouble with the rat race is that even if you win, you're still a rat.**\n\n— Lily Tomlin\n
 <!-- END_QUOTE -->
 
 ---
