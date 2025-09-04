@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**To know even one life has breathed easier because you have lived. This is to have succeeded.**\n\n— Ralph Waldo Emerson\n
+**Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.**\n\n— Steve Harvey\n
 <!-- END_QUOTE -->
 
 ---
