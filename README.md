@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.**\n\n— Steve Harvey\n
+**A lot of people have gone further than they thought they could because someone else thought they could.**\n\n— Zig Ziglar\n
 <!-- END_QUOTE -->
 
 ---
