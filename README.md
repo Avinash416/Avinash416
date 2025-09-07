@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**If no one ever broke the rules, then we'd never advance.**\n\n— Simon Sinek\n
+**We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.**\n\n— T.S. Eliot\n
 <!-- END_QUOTE -->
 
 ---
