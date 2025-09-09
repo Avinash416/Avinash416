@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Don't blame others. it won't make you a better person.**\n\n— Lolly Daskal\n
+**A fall into a ditch makes you wiser.**\n\n— Chinese Proverb\n
 <!-- END_QUOTE -->
 
 ---
