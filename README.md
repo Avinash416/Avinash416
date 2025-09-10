@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**A fall into a ditch makes you wiser.**\n\n— Chinese Proverb\n
+**One small positive thought can change your whole day.**\n\n— Zig Ziglar\n
 <!-- END_QUOTE -->
 
 ---
