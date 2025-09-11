@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**One small positive thought can change your whole day.**\n\n— Zig Ziglar\n
+**A gentleman accepts the responsibility of his actions and bears the burden of their consequences.**\n\n— William Faulkner\n
 <!-- END_QUOTE -->
 
 ---
