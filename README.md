@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**A gentleman accepts the responsibility of his actions and bears the burden of their consequences.**\n\n— William Faulkner\n
+**Don't try to steer the river.**\n\n— Deepak Chopra\n
 <!-- END_QUOTE -->
 
 ---
