@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Don't try to steer the river.**\n\n— Deepak Chopra\n
+**No problem can be solved from the same level of consciousness that created it.**\n\n— Albert Einstein\n
 <!-- END_QUOTE -->
 
 ---
