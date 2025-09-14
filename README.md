@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**No problem can be solved from the same level of consciousness that created it.**\n\n— Albert Einstein\n
+**It is not fair to ask of others what you are not willing to do yourself.**\n\n— Eleanor Roosevelt\n
 <!-- END_QUOTE -->
 
 ---
