@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**It is not fair to ask of others what you are not willing to do yourself.**\n\n— Eleanor Roosevelt\n
+**Passion is energy. Feel the power that comes from focusing on what excites you. **\n\n— Oprah Winfrey\n
 <!-- END_QUOTE -->
 
 ---
