@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Passion is energy. Feel the power that comes from focusing on what excites you. **\n\n— Oprah Winfrey\n
+**A strong man overcomes an obstacle, a wise man goes the whole way.**\n\n— Zen Proverb\n
 <!-- END_QUOTE -->
 
 ---
