@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**A strong man overcomes an obstacle, a wise man goes the whole way.**\n\n— Zen Proverb\n
+**I dream my painting and I paint my dream.**\n\n— Vincent van Gogh\n
 <!-- END_QUOTE -->
 
 ---
