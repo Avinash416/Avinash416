@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**I dream my painting and I paint my dream.**\n\n— Vincent van Gogh\n
+**Success is getting what you want... Happiness is wanting what you get.**\n\n— Dale Carnegie\n
 <!-- END_QUOTE -->
 
 ---
