@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Success is getting what you want... Happiness is wanting what you get.**\n\n— Dale Carnegie\n
+**If you are ever the smartest person in the room, you are in the wrong room.**\n\n— C. Sean McGee\n
 <!-- END_QUOTE -->
 
 ---
