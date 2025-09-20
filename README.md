@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**If you are ever the smartest person in the room, you are in the wrong room.**\n\n— C. Sean McGee\n
+**It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.**\n\n— Dale Carnegie\n
 <!-- END_QUOTE -->
 
 ---
