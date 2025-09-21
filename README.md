@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.**\n\n— Dale Carnegie\n
+**Never whine, never complain, never try to justify yourself.**\n\n— Robert Greene\n
 <!-- END_QUOTE -->
 
 ---
