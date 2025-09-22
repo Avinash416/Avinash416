@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Never whine, never complain, never try to justify yourself.**\n\n— Robert Greene\n
+**There is no greatness where there is not simplicity, goodness, and truth.**\n\n— Leo Tolstoy\n
 <!-- END_QUOTE -->
 
 ---
