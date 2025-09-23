@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**There is no greatness where there is not simplicity, goodness, and truth.**\n\n— Leo Tolstoy\n
+**Human beings can alter their lives by altering their attitudes of mind.**\n\n— William James\n
 <!-- END_QUOTE -->
 
 ---
