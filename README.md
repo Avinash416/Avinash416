@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Human beings can alter their lives by altering their attitudes of mind.**\n\n— William James\n
+**You must be willing to do what others won't do, to have what others won't have.**\n\n— Les Brown\n
 <!-- END_QUOTE -->
 
 ---
