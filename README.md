@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**You must be willing to do what others won't do, to have what others won't have.**\n\n— Les Brown\n
+**When you move beyond your fear, you feel free.**\n\n— Spencer Johnson\n
 <!-- END_QUOTE -->
 
 ---
