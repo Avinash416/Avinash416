@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**When you move beyond your fear, you feel free.**\n\n— Spencer Johnson\n
+**Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.**\n\n— Lao Tzu\n
 <!-- END_QUOTE -->
 
 ---
