@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.**\n\n— Lao Tzu\n
+**Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.**\n\n— Robert Greene\n
 <!-- END_QUOTE -->
 
 ---
