@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.**\n\n— Robert Greene\n
+**No man is free who is not master of himself.**\n\n— Epictetus\n
 <!-- END_QUOTE -->
 
 ---
