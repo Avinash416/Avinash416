@@ -5,7 +5,7 @@
 ---
 
 <!-- START_QUOTE -->
-**No man is free who is not master of himself.**\n\n— Epictetus\n
+**Not everything that weighs you down is yours to carry.**\n\n— Unknown\n
 <!-- END_QUOTE -->
 
 ---
